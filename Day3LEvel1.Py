@@ -52,9 +52,9 @@ print(f"Cuando y=0, x={raiz}")
 
 print("\nLongitud de palabras")
 python_len = len("python")
-dragon_len = len("dragon")
+dragon_len = len("perro")
 print(f"Longitud 'python': {python_len}")
-print(f"Longitud 'dragon': {dragon_len}")
+print(f"Longitud 'perro': {dragon_len}")
 print(f"Comparación falsa: ¿Son diferentes? {python_len != dragon_len}")  # Falsa porque son iguales
 
 print("\nVerificar 'on' en palabras")
