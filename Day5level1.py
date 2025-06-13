@@ -106,3 +106,5 @@ print(lleno)
 #27
 index_redux = lleno.index('Redux')
 lleno.insert(index_redux + 1, 'Python')
+lleno.insert(index_redux + 2, 'SQL')
+print(lleno)
